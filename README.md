@@ -4,6 +4,16 @@ An AI-powered solution designed to detect, track, and geotag potholes using vide
 
 ---
 
+## Screenshots
+
+- **Main Interface**:
+  ![Main Interface](screenshots/main.png)
+
+- **Uploading section**:
+  ![Upload & Maps](screenshots/upload.png)
+
+---
+
 ## Features  
 
 - **Pothole Detection**: Detect potholes in video frames using a YOLO-based object detection model.  
